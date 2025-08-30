@@ -11,8 +11,8 @@ Each project is self-contained in its own folder with documentation, code, and r
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Air Quality Prediction](tasks/air_quality/README.md) | Predict AQI levels using global pollution data | Python, scikit-learn, Jupyter |
-| [Customer Churn Analysis](tasks/customer_churn/README.md) | Analyze telecom data to predict customer churn | Pandas, XGBoost, Matplotlib |
+| [Air Quality Prediction](air_quality/README.md) | Predict AQI levels using global pollution data | Python, scikit-learn, Jupyter |
+| [Customer Churn Analysis](customer_churn/README.md) | Analyze telecom data to predict customer churn | Pandas, XGBoost, Matplotlib |
 
 
 ---
