@@ -75,11 +75,12 @@ pip install -r requirements.txt
 ```
 
 ## Run the notebook
-```jupyter notebook air_quality_prediction.ipynb
+```bash
+jupyter notebook air_quality_prediction.ipynb
 ```
 
 ---
-## Future Improvements
+## ✅ Future Improvements
 - Time-series forecasting of AQI trends.
 - Deployment of best model as an API or dashboard.
 
@@ -87,6 +88,5 @@ pip install -r requirements.txt
 
 ## 📚 References
 - Kaggle Dataset: Air Quality 2024
-
 
 
